@@ -1,0 +1,5 @@
+Belajar Flutter pemula :
+- Instalasi text editor VSCode
+- Instalasi Android Studio dan SDK nya
+- Instalasi Flutter
+- Pengecekan Instalasi
