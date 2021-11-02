@@ -3,3 +3,5 @@ Belajar Flutter pemula :
 - Instalasi Android Studio dan SDK nya
 - Instalasi Flutter
 - Pengecekan Instalasi
+- Percobaan Flutter
+- Run & Debug percobaan flutter
